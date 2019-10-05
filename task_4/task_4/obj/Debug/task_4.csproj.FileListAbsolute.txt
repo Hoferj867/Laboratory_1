@@ -1,0 +1,7 @@
+C:\Users\r2d2\source\repos\task_4\task_4\bin\Debug\task_4.exe.config
+C:\Users\r2d2\source\repos\task_4\task_4\bin\Debug\task_4.exe
+C:\Users\r2d2\source\repos\task_4\task_4\bin\Debug\task_4.pdb
+C:\Users\r2d2\source\repos\task_4\task_4\obj\Debug\task_4.csprojAssemblyReference.cache
+C:\Users\r2d2\source\repos\task_4\task_4\obj\Debug\task_4.csproj.CoreCompileInputs.cache
+C:\Users\r2d2\source\repos\task_4\task_4\obj\Debug\task_4.exe
+C:\Users\r2d2\source\repos\task_4\task_4\obj\Debug\task_4.pdb

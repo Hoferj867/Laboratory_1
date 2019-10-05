@@ -1,0 +1,6 @@
+C:\Users\r2d2\source\repos\task_5\task_5\bin\Debug\task_5.exe.config
+C:\Users\r2d2\source\repos\task_5\task_5\bin\Debug\task_5.exe
+C:\Users\r2d2\source\repos\task_5\task_5\bin\Debug\task_5.pdb
+C:\Users\r2d2\source\repos\task_5\task_5\obj\Debug\task_5.csproj.CoreCompileInputs.cache
+C:\Users\r2d2\source\repos\task_5\task_5\obj\Debug\task_5.exe
+C:\Users\r2d2\source\repos\task_5\task_5\obj\Debug\task_5.pdb
