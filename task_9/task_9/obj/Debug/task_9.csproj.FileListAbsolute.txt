@@ -1,0 +1,7 @@
+C:\Users\r2d2\source\repos\task_9\task_9\bin\Debug\task_9.exe.config
+C:\Users\r2d2\source\repos\task_9\task_9\bin\Debug\task_9.exe
+C:\Users\r2d2\source\repos\task_9\task_9\bin\Debug\task_9.pdb
+C:\Users\r2d2\source\repos\task_9\task_9\obj\Debug\task_9.csprojAssemblyReference.cache
+C:\Users\r2d2\source\repos\task_9\task_9\obj\Debug\task_9.csproj.CoreCompileInputs.cache
+C:\Users\r2d2\source\repos\task_9\task_9\obj\Debug\task_9.exe
+C:\Users\r2d2\source\repos\task_9\task_9\obj\Debug\task_9.pdb

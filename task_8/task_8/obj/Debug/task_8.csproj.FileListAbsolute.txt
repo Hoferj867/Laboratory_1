@@ -1,0 +1,6 @@
+C:\Users\r2d2\source\repos\task_8\task_8\obj\Debug\task_8.csproj.CoreCompileInputs.cache
+C:\Users\r2d2\source\repos\task_8\task_8\bin\Debug\task_8.exe.config
+C:\Users\r2d2\source\repos\task_8\task_8\bin\Debug\task_8.exe
+C:\Users\r2d2\source\repos\task_8\task_8\bin\Debug\task_8.pdb
+C:\Users\r2d2\source\repos\task_8\task_8\obj\Debug\task_8.exe
+C:\Users\r2d2\source\repos\task_8\task_8\obj\Debug\task_8.pdb

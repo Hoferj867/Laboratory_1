@@ -1,0 +1,7 @@
+C:\Users\r2d2\source\repos\task_individual_2\task_individual_2\bin\Debug\task_individual_2.exe.config
+C:\Users\r2d2\source\repos\task_individual_2\task_individual_2\bin\Debug\task_individual_2.exe
+C:\Users\r2d2\source\repos\task_individual_2\task_individual_2\bin\Debug\task_individual_2.pdb
+C:\Users\r2d2\source\repos\task_individual_2\task_individual_2\obj\Debug\task_individual_2.csprojAssemblyReference.cache
+C:\Users\r2d2\source\repos\task_individual_2\task_individual_2\obj\Debug\task_individual_2.csproj.CoreCompileInputs.cache
+C:\Users\r2d2\source\repos\task_individual_2\task_individual_2\obj\Debug\task_individual_2.exe
+C:\Users\r2d2\source\repos\task_individual_2\task_individual_2\obj\Debug\task_individual_2.pdb
